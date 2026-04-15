@@ -83,7 +83,8 @@ The project works with full-body IMU gait recordings collected during self-paced
 - full-body kinematic signals from wearable IMUs
 - repeated measurements suitable for subject-level and group-level analysis
 
-This repository mainly contains code and workflow utilities. Depending on repository version and publication constraints, raw data may not be distributed directly here.
+This repository mainly contains code and workflow utilities. 
+Raw data may not be distributed directly here but can be found in: Wiles, T. et al. Nonan gaitprint: An imu gait database of healthy older adults. Figshare https://doi.org/10.6084/m9.figshare.27815034. (2024).
 
 ## Current Repository Structure
 
